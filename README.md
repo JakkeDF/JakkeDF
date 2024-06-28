@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakkeDF
 - 👀 I’m interested in GrapheneOS
-- 🌱 I’m currently learning to turn my Pixel 7 Pro into a Graphene phoneWhat did youo
+- 🌱 I’m currently learning to turn my Pixel 7 Pro into a Graphene phone
 - 💞️ I’m looking to collaborate on that project as I know little about the issue
 - 📫 How to reach me dutchfinn <at>protonmail.com
 - 😄 Pronouns: ...who could assist me with installing it?
